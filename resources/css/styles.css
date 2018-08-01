@@ -1,0 +1,17 @@
+table, td, th {
+    margin: 20px;
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+img#boxmodel {
+    height: 50%;
+    width: 50%;
+}
+
+dd {
+    font-family: cursive;
+}
