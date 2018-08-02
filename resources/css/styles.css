@@ -52,3 +52,11 @@ img#boxmodel {
 dt {
    font-weight: bold; 
 }
+
+div.class {
+    background-color: red;
+}
+
+div.class p#id {
+    background-color: blue;
+}
